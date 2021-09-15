@@ -1,3 +1,15 @@
+# TaskListReactApp
+A todo TaskList developed in React.
+
+# Running the project
+1.Download the code as zip. 2.Unzip the contents to a specified folder. 3.Open the directory in the cmd. 4.npm install and npm start 5.visit the localhost:3000 to see the application working
+
+# End product
+
+![image](https://user-images.githubusercontent.com/82278675/133489512-773537c9-cabc-4318-97b2-b3e0fa8819e7.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
